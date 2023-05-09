@@ -8,4 +8,6 @@
 
 ```sh
 git clone https://github.com/dertovich/vk-golang-intern.git
-
+cd vk-golang-intern
+go mod download
+go run .
