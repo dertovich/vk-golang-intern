@@ -9,3 +9,7 @@ git clone https://github.com/dertovich/vk-golang-intern.git
 cd vk-golang-intern
 go mod download
 go run .
+```
+
+### P.s:
+Было отдано предпочтение Telegram Bot API ввиду большеq ознакомленности с его инструментами и возможностями 
